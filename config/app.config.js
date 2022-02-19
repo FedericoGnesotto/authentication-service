@@ -1,0 +1,1 @@
+exports.APP_KEY = "APP_KEY";
